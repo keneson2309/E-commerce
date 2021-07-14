@@ -3,11 +3,12 @@ header{
     padding: 25px;
 
     form{
+          
         input[type="text"]{
             background: $branco;
             width: 100%;
-            border: none;
             border-radius: 100px;
+            border: none;
             padding: 10px 20px;
         }
         
@@ -15,7 +16,8 @@ header{
             background: none;
             border: none;
             position: absolute;
-            right: 490px;
+            right:20px;
+           
             
         }
     }
